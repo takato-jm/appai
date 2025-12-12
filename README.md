@@ -17,7 +17,7 @@ React Native（Expo）と Firebase を使用し、
 ６．診断履歴画面の表示
 ７．診断詳細画面
 ８．irebase にデータが保存された状態の確認
-動画URL　＝＞　
+動画URL　＝＞　sha256:552939bd9258b4b7d069b0ca440b44012fa38e7c495aca0ee9b0648bf4c9992d
 
 ---
 目的
