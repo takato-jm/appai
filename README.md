@@ -17,7 +17,8 @@ React Native（Expo）と Firebase を使用し、
 ６．診断履歴画面の表示
 ７．診断詳細画面
 ８．irebase にデータが保存された状態の確認
-動画URL　＝＞　
+動画URL　＝＞　https://github.com/takato-jm/appai/raw/63f748aef0ac10ecd89ce77e9e3703789bc7e495/%E3%82%A2%E3%83%97%E3%83%AA%E7%94%BB%E9%9D%A2.mp4
+
 ---
 目的
 「美容で人に希望を与えたい」という思いから開発したアプリ。  
