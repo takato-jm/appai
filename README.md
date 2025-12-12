@@ -10,14 +10,14 @@ React Native（Expo）と Firebase を使用し、
 アプリの画面遷移および Firebase へのデータ保存の流れが確認できます。
 動画内の画面遷移：
 １．Firebase に診断データが存在しない状態
-２.アプリのホーム画面
-３．写真選択（似顔絵を使用）
-４．肌に関する質問回答
-５．診断データを保存
-６．診断履歴画面の表示
-７．診断詳細画面
-８．Firebase にデータが保存された状態の確認
-動画URL　＝＞　https://github.com/takato-jm/appai/raw/63f748aef0ac10ecd89ce77e9e3703789bc7e495/%E3%82%A2%E3%83%97%E3%83%AA%E7%94%BB%E9%9D%A2.mp4
+ ２.アプリのホーム画面
+ ３．写真選択（似顔絵を使用）
+ ４．肌に関する質問回答
+ ５．診断データを保存
+ ６．診断履歴画面の表示
+ ７．診断詳細画面
+ ８．Firebase にデータが保存された状態の確認
+    動画URL　＝＞　https://github.com/takato-jm/appai/raw/63f748aef0ac10ecd89ce77e9e3703789bc7e495/%E3%82%A2%E3%83%97%E3%83%AA%E7%94%BB%E9%9D%A2.mp4
 
 ---
 目的
