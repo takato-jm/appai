@@ -17,7 +17,7 @@ React Native（Expo）と Firebase を使用し、
 ６．診断履歴画面の表示
 ７．診断詳細画面
 ８．irebase にデータが保存された状態の確認
-動画URL　＝＞　https://github.com/takato-jm/appai/commit/e6d277bd13f63b5e90e970dc6f10e19c0601e05d
+動画URL　＝＞　
 
 ---
 目的
